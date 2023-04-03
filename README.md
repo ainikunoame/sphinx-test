@@ -1,5 +1,7 @@
 # sphinx-test
-sphinx test and study
+- sphinx test and study
+
+## memo
 
 各自上位ディレクトリにsphinx仮想環境作成
 
