@@ -1,5 +1,6 @@
 # sphinx-test
-- sphinx test and study
+- to sphinx test and study
+- [github pages](https://ainikunoame.github.io/sphinx-test/)
 
 ## memo
 
