@@ -21,3 +21,6 @@ pip install sphinx Pillow
 ```
 sphinx-quickstart --version
 ```
+---
+
+sphinxのインデントは半角スペース3つ
