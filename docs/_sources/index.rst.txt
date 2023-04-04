@@ -9,6 +9,10 @@ Welcome to sphinx-test's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   ./chap1.rst
+   ./chap2.rst
+   ./chap3.rst
 
 
 
