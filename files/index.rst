@@ -1,16 +1,31 @@
-.. sphinx-test documentation master file, created by
-   sphinx-quickstart on Mon Apr  3 19:28:59 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+###########
+はじめに
+###########
 
-Welcome to sphinx-test's documentation!
-=======================================
+*************
+ご挨拶
+*************
+
+ふとした時にSphinxを使用しようとしたとき道案内になるようなドキュメントを作成しています。
+自分用として作成しつつ、構成が固まり、外に出せるようなタイミングがあれば、GithubPagesなどでの公開を考えています。
+
+
+*************************
+使用ソフト・バージョン
+*************************
+Sphinx 6.1.3
+
+
+####
+目次
+####
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    
-   ./toctree/midasi/midasi.rst
+   ./toctree/midasi-and-toctree/midasi.rst
 
 
 Indices and tables
