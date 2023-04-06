@@ -10,10 +10,7 @@ Welcome to sphinx-test's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   ./chap1.rst
-   ./chap2.rst
-   ./chap3.rst
-
+   ./toctree/midasi/midasi.rst
 
 
 Indices and tables
