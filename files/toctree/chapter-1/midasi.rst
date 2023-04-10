@@ -29,12 +29,32 @@ toctreeディレクティブで生成したリンクを表示しません。
 
 .. コードブロックと画像を挿入
 
+####
+目次
+####
+.. toctree::
+   :hidden:
+
+   ./mokuji-example/chapter1
+   ./mokuji-example/chapter2
+   ./mokuji-example/chapter3
+
+
 numberd
 =========
 見出しに通し番号を付加する。
 
 .. コードブロックと画像を挿入
 
+####
+目次
+####
+.. toctree::
+   :numberd:
+
+   ./mokuji-example/chapter1
+   ./mokuji-example/chapter2
+   ./mokuji-example/chapter3
 
 maxdepth
 ==========
@@ -42,3 +62,12 @@ maxdepth
 
 .. コードブロックと画像を挿入
 
+####
+目次
+####
+.. toctree::
+   :maxdepth: 1
+
+   ./mokuji-example/chapter1
+   ./mokuji-example/chapter2
+   ./mokuji-example/chapter3

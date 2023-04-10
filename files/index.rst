@@ -25,7 +25,7 @@ Sphinx 6.1.3
    :maxdepth: 2
    :caption: Contents:
    
-   ./toctree/midasi-and-toctree/midasi.rst
+   ./toctree/chapter-1/midasi.rst
 
 
 Indices and tables
